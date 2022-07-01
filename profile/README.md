@@ -1,4 +1,5 @@
 ## Hi there 👋
+Welcome 
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
@@ -9,3 +10,7 @@ By using the code provided in these repositories you agree with the following:
 * Russia has brought sorrow and devastations to millions of Ukrainians, killed hundreds of innocent people, damaged thousands of buildings, and forced several million people to flee.
 
 Glory to Ukraine! 🇺🇦
+
+🙋 JAP, acronym for "**J**ust **A**s **P**lanned", is creators of open-source software for Scala:
+
+- [Fields](https://github.com/jap-company/fields)
